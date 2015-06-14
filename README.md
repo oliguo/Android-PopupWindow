@@ -20,5 +20,5 @@ study  android-PopupWindow with android studio
 
 <a href="http://blog.csdn.net/ztp800201/article/details/7387668" target="_blank">android - anim translate中 fromXDelta、toXDelta、fromYDelta、toXDelta属性</a>
 
-<a href="http://www.oschina.net/question/97118_34343" target="_blank">http://www.oschina.net/question/97118_34343</a>
+<a href="http://www.oschina.net/question/97118_34343" target="_blank">Android的Activity屏幕切换动画(一)-左右滑动切换</a>
 
