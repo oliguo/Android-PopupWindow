@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="PopupAnimation" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@animator/popup_in</item>
+        <item name="android:windowExitAnimation">@animator/popup_out</item>
+    </style>
+
+    <style name="PopupAnimationLeft" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@animator/popup_leftin</item>
+        <item name="android:windowExitAnimation">@animator/popup_leftout</item>
+    </style>
+
+    <style name="PopupAnimationRight" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@animator/popup_rightin</item>
+        <item name="android:windowExitAnimation">@animator/popup_rightout</item>
+    </style>
+
+    <style name="PopupAnimationTop" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@animator/popup_topin</item>
+        <item name="android:windowExitAnimation">@animator/popup_topout</item>
+    </style>
+
+</resources>
