@@ -10,7 +10,7 @@ study  android-PopupWindow with android studio
 <img src="https://github.com/oliguo/android-PopupWindow/blob/master/screenshot-video/H30-U10HuaweiH30-U10vtl-solutionsltd06142015150001.gif" width="250"/>
 
 ###youtube
-<iframe width="420" height="315" src="https://www.youtube.com/embed/RmDrIPwTzmg" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=RmDrIPwTzmg&feature=youtu.be">link</a>
 
 ###App Demo <a href="https://github.com/oliguo/android-PopupWindow/blob/master/apk/app-debug.apk">Download and test</a>
 
