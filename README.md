@@ -11,3 +11,11 @@ study  android-PopupWindow with android studio
 
 ###App Demo <a href="https://github.com/oliguo/android-PopupWindow/blob/master/apk/app-debug.apk">Download and test</a>
 
+
+###Reference
+<a href="http://www.cnblogs.com/sw926/p/3230659.html" target="_blank">Android PopupWindow的使用技巧</a>
+
+<a href="http://blog.csdn.net/ztp800201/article/details/7387668" target="_blank">android - anim translate中 fromXDelta、toXDelta、fromYDelta、toXDelta属性</a>
+
+<a href="http://www.oschina.net/question/97118_34343" target="_blank">http://www.oschina.net/question/97118_34343</a>
+
