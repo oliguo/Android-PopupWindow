@@ -4,7 +4,7 @@ import android.app.ActionBar;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.Menu;
@@ -16,7 +16,7 @@ import android.widget.PopupWindow;
 import oliguo.example.popupwindow.R;
 
 
-public class PopupWindow1 extends ActionBarActivity {
+public class PopupWindow1 extends AppCompatActivity {
     private Button mButton,mButton1,mButton2,mButton3,mButton4;
     private PopupWindow mPopupWindow,mPopupWindow1,mPopupWindow2,mPopupWindow3,mPopupWindow4;
     @Override

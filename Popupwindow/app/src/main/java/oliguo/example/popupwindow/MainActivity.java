@@ -2,15 +2,16 @@ package oliguo.example.popupwindow;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
 import oliguo.example.popupwindow.PopupWindow1.PopupWindow1;
+import oliguo.example.popupwindow.Tooltips.Tooltips;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +23,12 @@ public class MainActivity extends ActionBarActivity {
         Intent intent=new Intent(this,PopupWindow1.class);
         startActivity(intent);
     }
+
+    public void goTooltips(View view){
+        Intent intent=new Intent(this, Tooltips.class);
+        startActivity(intent);
+    }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

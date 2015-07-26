@@ -6,4 +6,5 @@
     
     <string name="PopupWindow1">PopupWindow1</string>
     <string name="title_activity_popup_window1">PopupWindow1</string>
+    <string name="title_activity_tooltips">Tooltips</string>
 </resources>

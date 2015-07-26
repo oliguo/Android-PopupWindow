@@ -20,6 +20,10 @@
             android:name=".PopupWindow1.PopupWindow1"
             android:label="@string/title_activity_popup_window1" >
         </activity>
+        <activity
+            android:name=".Tooltips.Tooltips"
+            android:label="@string/title_activity_tooltips" >
+        </activity>
     </application>
 
 </manifest>
